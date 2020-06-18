@@ -1,7 +1,8 @@
 # HiddenURL - For Social Engineering And Phishing Attacks
 ***********************************************************************
 # Usage
-        Usage: python hiddenurl_windows.py or python hiddenurl_linux.py
+        Usage: python hiddenurl_windows.py
+               python hiddenurl_linux.py
 ***********************************************************************     
 ![Screenshot_1](https://user-images.githubusercontent.com/52522145/85061201-19e43200-b1af-11ea-9acc-a64d97603768.png)
 
