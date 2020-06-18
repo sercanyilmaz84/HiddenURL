@@ -180,7 +180,7 @@ def EnlaceSabah():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.sabah.com.tr/sondakika/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.sabah.com.tr-sondakika-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceHurriyet():
@@ -195,7 +195,7 @@ def EnlaceHurriyet():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.hurriyet.com.tr/gundem/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.hurriyet.com.tr-gundem-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceYeniSafak():
@@ -210,7 +210,7 @@ def EnlaceYeniSafak():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.yenisafak.com.tr/sondakika/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.yenisafak.com.tr-sondakika-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -226,7 +226,7 @@ def EnlaceMedium():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.medium.com/turkiye/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.medium.com-turkiye-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -242,7 +242,7 @@ def EnlaceHaberlerCom():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.haberler.com/son-dakika/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.haberler.com-sondakika-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -258,7 +258,7 @@ def EnlaceCHP():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.chp.org.tr/haberler/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.chp.org.tr-haberler-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceMHP():
@@ -273,7 +273,7 @@ def EnlaceMHP():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.mhp.org.tr/htmldocs/mhp/4687/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.mhp.org.tr-htmldocs-mhp-4687-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceAKP():
@@ -288,7 +288,7 @@ def EnlaceAKP():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.akparti.org.tr/haberler/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.akparti.org.tr-haberler-{Postlink}@{Withouthttp}")
     Other()
 
 def EnlaceBtcTurk():
@@ -303,7 +303,7 @@ def EnlaceBtcTurk():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.btcturk.com/-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.btcturk.com-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -319,7 +319,7 @@ def EnlaceUdemy():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.udemy.com/course-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.udemy.com-course-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -335,7 +335,7 @@ def EnlaceHepsiburada():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://www.hepsiburada.com/urun-detay-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.hepsiburada.com-urun-detay-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -351,7 +351,7 @@ def EnlaceNeOnbir():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://urun.n11.com/firsatlar-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://urun.n11.com-firsatlar-{Postlink}@{Withouthttp}")
     Other()
 
 
@@ -367,7 +367,7 @@ def EnlaceTrendyol():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('clear')
-    print(f"\033[95m\nSahte link hazır: https://trendyol.com/firsatlar-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://trendyol.com-firsatlar-{Postlink}@{Withouthttp}")
     Other()
 
 
