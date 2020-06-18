@@ -390,7 +390,7 @@ def EnlacePersonalized():
 
 def Other():
     print("\033[93m\nYeni bir link oluşturmak ister misin?")
-    print("Evet [*1] \nHayır  [*2]")
+    print("Evet [*1] \nHayır [*2]")
     select=int(input("\nSeçim: "))
     if select == 1:
         os.system('clear')
