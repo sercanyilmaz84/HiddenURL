@@ -2,7 +2,6 @@
 ***********************************************************************
 # Usage
         Usage: python hiddenurl_windows.py
-               python hiddenurl_linux.py
        
 Python ve Ethical Hacking eğitimlerinde kullanılmak üzere yazılmıştır. Yasal sorumluluklar, kullanıcıya aittir.
 ***********************************************************************     
