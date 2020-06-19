@@ -117,7 +117,7 @@ def EnlaceYoutube():
     EndLink = Shortener.tinyurl.short(OriginalLink)
     Withouthttp = EndLink[7:]
     os.system('cls')
-    print(f"\033[95m\nSahte link hazır: https://www.youtube.com-watch?-{Postlink}@{Withouthttp}")
+    print(f"\033[95m\nSahte link hazır: https://www.youtube.com-watch-{Postlink}@{Withouthttp}")
     
     Other()
 
