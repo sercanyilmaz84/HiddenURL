@@ -10,7 +10,7 @@ os.system('cls')
 def Main():
     print("\033[93m--------------------------------------------")
     print("   Hide custom URL for social engineering   ")
-    print("        Created by @perez_mascato   ")
+    print("   Created by @perez_mascato as URLCADIZ   ")
     print("\n Edited by Sercan Yılmaz for Turkish Users   ")
     print("        bilgi@sercanyilmaz.com.tr   ")
     print("--------------------------------------------")
