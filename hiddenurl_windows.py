@@ -12,7 +12,7 @@ def Main():
     print("   Hide custom URL for social engineering   ")
     print("   Created by @perez_mascato as URLCADIZ   ")
     print("\n Edited by Sercan Yılmaz for Turkish Users   ")
-    print("        bilgi@sercanyilmaz.com.tr   ")
+    print("        sercanyilmaz@protonmail.com   ")
     print("--------------------------------------------")
     print("\n[*1]  Google")
     print("[*2]  Youtube")
